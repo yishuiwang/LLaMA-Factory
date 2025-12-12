@@ -1,4 +1,13 @@
 {
+  "ruozhiba": {
+    "file_name": "ruozhiba_qa.json",
+    "formatting": "alpaca",
+    "columns": {
+      "prompt": "instruction",
+      "query": "",
+      "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },

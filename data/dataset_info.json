@@ -1,4 +1,14 @@
 {
+  "nowcoder":{
+    "file_name":"dpo_dataset.json",
+    "ranking":true,
+    "formatting":"sharegpt",
+    "columns":{
+      "messages":"conversations",
+      "chosen":"chosen",
+      "rejected":"rejected"
+    }
+  },
   "ruozhiba": {
     "file_name": "ruozhiba_qa.json",
     "formatting": "alpaca",
